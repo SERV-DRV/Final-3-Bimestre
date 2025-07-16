@@ -22,7 +22,7 @@
                         <div class="card-body">
                             <h3 style="color: Black;"  class="card-title text-center mb-4">Iniciar Sesión</h3>
                             <marquee class="aBienvendiada">Bienvenido a "nombreProyecto" Iniciemos</marquee>
-                            <form method="get" action="ServletEmpleado">
+                            <form method="get" action="ServletLogIn">
                                 <div class="mb-3">
                                     <label for="email" class="form-label">Correo electrónico:</label>
                                     <input type="email" class="form-control" id="email" placeholder="ejemplo@correo.com" name="email">

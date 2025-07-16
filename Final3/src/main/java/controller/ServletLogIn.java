@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author enriq
  */
-public class ServletEmpleado extends HttpServlet {
+public class ServletLogIn extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest solicitud, HttpServletResponse respuesta) throws IOException, ServletException {
